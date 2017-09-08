@@ -27,3 +27,6 @@ A. http://javapapers.com/core-java/differentiate-jvm-jre-jdk-jit/
 
 Q. Java8 PermGen v/s Metspace
 A. https://dzone.com/articles/java-8-permgen-metaspace
+
+Q. What changes were made to introduce Lambda in Java8 ?
+A. https://www.infoq.com/articles/Java-8-Lambdas-A-Peek-Under-the-Hood
